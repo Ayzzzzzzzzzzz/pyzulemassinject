@@ -3,6 +3,7 @@ an [azule](https://github.com/Al4ise/Azule) "clone" written in python3. `pyzule`
 
 
 ## Added Script
+Super simple but helpful script to inject a deb into a folder of ipa files.
 
 Just install Pyzule as normal, then run the script in Releases Tab, with the command : `python /path_to/pyzulef.py` or `python3 /path_to/pyzulef.py`
 
