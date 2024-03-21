@@ -2,7 +2,7 @@
 an [azule](https://github.com/Al4ise/Azule) "clone" written in python3. `pyzule` aims to be faster, have more features, have better support for manually modified dylibs, and overall have less issues than azule. officially supports linux, macos, and wsl. tested on arch linux and macos mojave w/ intel cpu.
 
 
-##Added Script
+## Added Script
 
 Just install Pyzule as normal, then run the script in Releases Tab, with the command : python /path_to/pyzulef.py or python3 /path_to/pyzulef.py
 
