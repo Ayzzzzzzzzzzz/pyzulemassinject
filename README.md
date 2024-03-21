@@ -4,7 +4,7 @@ an [azule](https://github.com/Al4ise/Azule) "clone" written in python3. `pyzule`
 
 ## Added Script
 
-Just install Pyzule as normal, then run the script in Releases Tab, with the command : python /path_to/pyzulef.py or python3 /path_to/pyzulef.py
+Just install Pyzule as normal, then run the script in Releases Tab, with the command : `python /path_to/pyzulef.py` or `python3 /path_to/pyzulef.py`
 
 
 
